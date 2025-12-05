@@ -1,0 +1,29 @@
+# Ignore all JSON files
+*.json
+
+# Ignore all Jupyter notebooks
+*.ipynb
+
+# Ignore outputs directory
+outputs/
+
+# Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pt
+*.pth
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Cache directories
+.cache/
+.ipynb_checkpoints/
+
+# Logs
+*.log
